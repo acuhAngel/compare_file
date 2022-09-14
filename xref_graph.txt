@@ -188,3 +188,4 @@ digraph G {
       "Jissai.AnalyticsBuilder" -> "Jissai.UserRoleHelper";
       "Jissai.AnalyticsBuilder" -> "Jissai.Reports";
 }
+
